@@ -15,6 +15,7 @@ De potmeter voltage wordt ingelezen door de Arduino en deze waarde varieert de w
 Effectief wordt hiermee de periode van de golf veranderd
 
 Function:
+
 Sending of a proper signal to the motordriver )parallax HB25) which controls the speed of a 12V electromotor. 
 A potmeter enables adjusting and finetuning the speed during operation
 
